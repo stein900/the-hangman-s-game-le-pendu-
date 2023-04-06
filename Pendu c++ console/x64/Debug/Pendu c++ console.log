@@ -1,3 +1,0 @@
-﻿  Source.cpp
-X:\tout le reste\visual studio 2022 project\Pendu c++ console\Source.cpp(22,19): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
-  Pendu c++ console.vcxproj -> X:\tout le reste\visual studio 2022 project\Pendu c++ console\x64\Debug\Pendu c++ console.exe
